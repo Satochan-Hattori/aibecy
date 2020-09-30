@@ -1,0 +1,23 @@
+{
+    "name": "Aibecy二足歩行ロボット",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.5",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "WhaleySansFont": "github:makecode-extensions/whaleysansfont#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
